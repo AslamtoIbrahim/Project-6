@@ -27,11 +27,13 @@ body {
 
 .attribution {
     margin-top: 3rem;
+    text-align: center;
 }
 
 .image img {
     width: 100%;
     border-radius: 1rem;
+    margin-bottom: 1rem;
 }
 
 .bold-text p {
